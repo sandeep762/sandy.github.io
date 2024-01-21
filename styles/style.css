@@ -1,0 +1,14 @@
+h1{
+    text-decoration: wavy;
+    text-align: center;
+    color: aqua;
+    padding: 20px;
+
+}
+body{
+    background-color: antiquewhite;
+
+}
+h1:hover{
+    color: aquamarine;
+}
